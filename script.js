@@ -1,1 +1,3 @@
-//your JS code here. If required.
+cy.get('#player1').should('be.visible');
+cy.pause();
+
